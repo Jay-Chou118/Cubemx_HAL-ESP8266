@@ -1,0 +1,2 @@
+# Cubemx_HAL-ESP8266
+使用HAL库通过串口1控制ESP8266
